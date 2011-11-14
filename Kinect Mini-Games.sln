@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kinect-a-Mole", "Kinect-a-Mole\Kinect-a-Mole\Kinect-a-Mole.csproj", "{45369C0E-1A45-4DD6-A49C-4F894EA16239}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Kinect-a-MoleContent", "Kinect-a-Mole\Kinect-a-MoleContent\Kinect-a-MoleContent.contentproj", "{820A1B64-D173-451A-BCFD-5B753504B53D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KinectLibrary", "..\KinectLibrary\KinectLibrary.csproj", "{33F5640D-B12C-4C7C-BBC9-56D218607976}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45369C0E-1A45-4DD6-A49C-4F894EA16239}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{45369C0E-1A45-4DD6-A49C-4F894EA16239}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{45369C0E-1A45-4DD6-A49C-4F894EA16239}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{45369C0E-1A45-4DD6-A49C-4F894EA16239}.Debug|x86.ActiveCfg = Debug|x86
+		{45369C0E-1A45-4DD6-A49C-4F894EA16239}.Debug|x86.Build.0 = Debug|x86
+		{45369C0E-1A45-4DD6-A49C-4F894EA16239}.Release|Any CPU.ActiveCfg = Release|x86
+		{45369C0E-1A45-4DD6-A49C-4F894EA16239}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{45369C0E-1A45-4DD6-A49C-4F894EA16239}.Release|Mixed Platforms.Build.0 = Release|x86
+		{45369C0E-1A45-4DD6-A49C-4F894EA16239}.Release|x86.ActiveCfg = Release|x86
+		{45369C0E-1A45-4DD6-A49C-4F894EA16239}.Release|x86.Build.0 = Release|x86
+		{820A1B64-D173-451A-BCFD-5B753504B53D}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{820A1B64-D173-451A-BCFD-5B753504B53D}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{820A1B64-D173-451A-BCFD-5B753504B53D}.Debug|x86.ActiveCfg = Debug|x86
+		{820A1B64-D173-451A-BCFD-5B753504B53D}.Release|Any CPU.ActiveCfg = Release|x86
+		{820A1B64-D173-451A-BCFD-5B753504B53D}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{820A1B64-D173-451A-BCFD-5B753504B53D}.Release|x86.ActiveCfg = Release|x86
+		{33F5640D-B12C-4C7C-BBC9-56D218607976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F5640D-B12C-4C7C-BBC9-56D218607976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F5640D-B12C-4C7C-BBC9-56D218607976}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{33F5640D-B12C-4C7C-BBC9-56D218607976}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{33F5640D-B12C-4C7C-BBC9-56D218607976}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{33F5640D-B12C-4C7C-BBC9-56D218607976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33F5640D-B12C-4C7C-BBC9-56D218607976}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33F5640D-B12C-4C7C-BBC9-56D218607976}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{33F5640D-B12C-4C7C-BBC9-56D218607976}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{33F5640D-B12C-4C7C-BBC9-56D218607976}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
